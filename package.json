@@ -1,0 +1,25 @@
+{
+  "name": "guitarsnetlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hMarriner/guitarsNetlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hMarriner/guitarsNetlify/issues"
+  },
+  "homepage": "https://github.com/hMarriner/guitarsNetlify#readme",
+  "dependencies": {
+    "netlify-cli": "^23.4.2",
+    "uuid": "^11.1.0"
+  }
+}
